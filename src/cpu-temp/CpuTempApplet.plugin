@@ -1,0 +1,8 @@
+[Plugin]
+Module=libdcsms-cputemp.so
+Name=CPU Temp Applet
+Description=Stupid lil Cpu Temp Applet
+Authors=jmkl
+Copyright=Copyright © 2018 jmkl
+Website=https://github.com/jmkl
+Icon=user-home-symbolic

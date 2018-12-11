@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist gettext-domain="netmeter">
+
+  <schema id="hello.dcsms.applet-cputemp">
+    <key type="s" name="text-entry">
+      <default>'Hello'</default>
+      <summary>Your text here</summary>
+      <description>Sumthin fancy</description>
+    </key>
+    
+  </schema>
+
+</schemalist>
