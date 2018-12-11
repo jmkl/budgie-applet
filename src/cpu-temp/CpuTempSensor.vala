@@ -41,7 +41,7 @@ public void destroy(){
 	this.is_run = false;
 
 }
-public int get_temp(){
+private int get_temp(){
 	int result=0;
 	if(thermal.query_exists()) {
 		try{
