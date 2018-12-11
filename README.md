@@ -3,6 +3,7 @@
 ## CPU Temp
 Show cpu temp on budgie panel.
 its support [pango-markup](https://developer.gnome.org/pango/stable/PangoMarkupFormat.html)
+
 ![Screenshot](shot/cputemp.jpg)
 ## Dependencies
 ```
